@@ -1,4 +1,4 @@
-# SomaliVoice
+# Somalivoice
 SomaliVoice is an initiative to teach computers to speak and understand the Somali language.
 
 ## First Phase
